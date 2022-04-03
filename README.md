@@ -6,4 +6,4 @@ This repo needs skicit-learn > 1.0
 
 # RUN
 1. modify the two path in main()
-2. run ```bash python t-sne.py```
+2. run ```python t-sne.py```
