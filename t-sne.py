@@ -85,8 +85,8 @@ def show(org_x,org_y,syn_x,syn_y):
 def main():
 
     
-    #path_org真实图片存放文件夹路径
-    #path_syn生成图片存放文件夹路径
+    #path_org: the real pic path
+    #path_syn: the generating pic path
     path_org = 'E:/Object-Detection/data_radar/temp/jpg'
     path_syn = 'E:/Object-Detection/data_radar/temp/jpg'
 
